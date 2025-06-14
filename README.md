@@ -4,7 +4,7 @@ Sticky Notes is a web application that allows users to create, edit, and manage 
 
 ## Demo
 
-Explore the application live: [Sticky Notes](https://sticky-notes-by-saiful.netlify.app/)
+Explore the application live: [Sticky Notes](https://sticky-app-cyan.vercel.app/)
 
 ## Features
 
